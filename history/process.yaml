@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-RID27-01-OPTAAD000-recovered_host-optaa_dj_dcl_instrument_recovered
 data_stream: CE02SHSM-RID27-01-OPTAAD000-recovered_host-optaa_dj_dcl_instrument_recovered
 end_date: '2021-08-17T16:34:02.492Z'
-last_updated: '2022-01-22T05:26:07.431343'
+last_updated: '2022-02-09T07:18:51.710883Z'
 start_date: '2015-04-02T21:30:19.000Z'
-status: failed
+status: pending
